@@ -15,15 +15,15 @@
                 <h2>Bienvenido</h2>
                 <div class="mb-3">
                     <form action="">
-                    <label for="exampleFormControlInput1" class="form-label">Add Item</label>
-                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Description">
+                    <label for="description" class="form-label">Add Item</label>
+                    <input type="text" class="form-control" id="description" placeholder="Description">
                   </div>
                   <div class="mb-3">
-                    <label for="exampleFormControlTextarea1" class="form-label">Number of items</label>
-                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="numer">
+                    <label for="number" class="form-label">Number of items</label>
+                    <input type="text" class="form-control" id="number" placeholder="Number">
                   </div>
                   <div class="mb-3">
-                    <button type="button" class="btn btn-success">Add</button>
+                    <button type="submit" class="btn btn-success">Add</button>
                   </div>
                 </form>
             </div>
